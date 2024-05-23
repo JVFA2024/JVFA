@@ -1,0 +1,8 @@
+Flask
+flask-cors
+python-dotenv
+openai
+langchain
+chromadb
+tiktoken
+unstructured[all-docs]

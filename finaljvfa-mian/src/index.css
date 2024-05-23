@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  font-family: "Cairo", sans-serif !important;
+}
+.gradBtn {
+  @apply bg-gradient-to-b shadow-xl from-[#F2FDFF] to-[#65A495] text-black capitalize font-bold rounded-lg border;
+}
+
+/* --------- */
+/*Scrollbar   */
+/* --------- */
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f2fdff;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #024a52;
+  border-radius: 12px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #024a52;
+  border-radius: 12px;
+}
+.rs-form-control-wrapper > .rs-input {
+  width: 100% !important;
+}
+.rs-radio-group-picker {
+  border: none !important;
+}
+.rs-radio-group-picker .rs-radio-inline {
+  text-align: center;
+  background-color: #f2f2f3;
+  padding: 15px 20px !important;
+  border-radius: 10px;
+}
+.rs-radio-group-picker .rs-radio-checker > label {
+  color: #000 !important;
+}
+.rs-radio-group-picker .rs-radio-checker:hover > label {
+  color: #024a52 !important;
+}
+.rs-radio-group-picker .rs-radio-checked .rs-radio-checker > label {
+  color: #024a52 !important;
+}
+
+.rs-notification-title-with-icon {
+  gap: 10px;
+}
+.rcb-audio-icon-off {
+  display: none !important;
+}
+.rcb-view-history-container {
+  display: none !important;
+}
+
+.rs-modal-header .rs-modal-header-close {
+  background-color: #fff !important;
+  padding: 5px !important;
+  border-radius: 50% !important;
+}
+.Buttons {
+  color: #024a52;
+  width: 6px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  animation: l37-1 0.75s infinite linear alternate, l37-2 1.5s infinite linear;
+}
+@keyframes l37-1 {
+  0%,
+  20% {
+    box-shadow: 30px 0 0 3px, 10px 0 0 3px, -10px 0 0 3px, -30px 0 0 3px;
+  }
+  60%,
+  100% {
+    box-shadow: 12px 0 0 3px, 14px 0 0 6px, -14px 0 0 6px, -12px 0 0 3px;
+  }
+}
+
+@keyframes l37-2 {
+  0%,
+  25% {
+    transform: rotate(0);
+  }
+  50%,
+  100% {
+    transform: rotate(0.5turn);
+  }
+}
