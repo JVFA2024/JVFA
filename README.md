@@ -73,8 +73,8 @@ For a quick overview of your financial status:
 
 ### Booking an Appointment
 To schedule an appointment with a customer service agent:
-- **Contact Support**: ![Contact Support](docs/img/book1.png)
-- **Contact Support**: ![Contact Support](docs/img/book2.png)
+- **Book an Appointment**: ![Contact Support](docs/img/book1.png)
+- **Book an Appointment**: ![Contact Support](docs/img/book2.png)
 
 ### Viewing Latest Transactions
 To review your recent financial activities:
@@ -82,4 +82,4 @@ To review your recent financial activities:
 
 ### Contact Customer Service Agent
 If you need personalized assistance or have specific inquiries:
-- **Transaction List**: ![Recent Transactions](docs/img/contact.png)
+- **Contact Support**: ![Recent Transactions](docs/img/contact.png)
