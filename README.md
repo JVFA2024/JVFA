@@ -19,8 +19,7 @@ Access the full documentation for JVFA at [JVFA Documentation](https://jvfa2024.
 
 ## Table of Contents
 1. [JVFA's Features](#jvfas-features)
-2. [Installation](#installation)
-3. [Usage](#usage)
+2. [Usage](#usage)
 
 
 ## JVFA's Features
@@ -47,8 +46,6 @@ The main features of the JVFA project are designed to enhance user interaction a
 - **Description:** Users can be transferred to the form to book an appointment to visit a bank branch through the chatbot. This simplifies the process of scheduling meetings with bank representatives, enhancing customer service and accessibility.
 
 These features collectively aim to provide a comprehensive and user-friendly financial management tool, making banking simpler and more interactive for all users.
-
-## Installation
 
 ## Usage
 JVFA provides a variety of features to enhance your financial management experience. Below are some common usage examples:
