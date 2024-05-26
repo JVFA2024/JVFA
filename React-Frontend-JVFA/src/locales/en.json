@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "lang": "en",
+    "dir": "ltr"
+  },
+  "languages": {
+    "en": "En",
+    "ar": "Ar"
+  },
+  "chatbot": {
+    "title": "Hello, ",
+    "subtitle": "This is JANA How can I help you today?",
+    "placeholder": "Type your message here..."
+  },
+  "basicQuestions": {
+    "q1": "What is my current account balance?",
+    "q2": "How much did I spend with my account?",
+    "q3": "I want to book an appointment.",
+    "q4": "Can you provide details of my recent transactions?",
+    "q5": "I want to contact customer service agent"
+  },
+  "modal": {
+    "title": "Welcome to the Jana Virtual Financial Assistant (JVFA)!",
+    "title2": "The Jana Virtual Financial Assistant (JVFA) represents a groundbreaking initiative to revolutionize our customer service landscape. Acknowledging the escalating need for seamless and efficient customer interactions, this tool is dedicated to offering 24/7 support, delivering real-time balance information, and facilitating expenditure tracking.",
+    "ok": "OK"
+  },
+  "login": {
+    "username": "Username:",
+    "password": "Password:",
+    "submit": "Login",
+    "success": "Login successful",
+    "error": "Failed to login",
+    "signout": "Sign out",
+    "loginas": "Logged in as"
+  },
+  "appointment": {
+    "title": "Schedule an appointment",
+    "name": "Your full name",
+    "id": "National ID / Iqama",
+    "date": "Date of the appointment",
+    "success": "Appointment scheduled successfully",
+    "service": {
+      "title": "Service",
+      "loan": "Request a loan",
+      "account": "Open a new account",
+      "investments": "Investments",
+      "others": "Others"
+    },
+    "submit": "Submit",
+    "error": "Error",
+    "errorFill": "Please fill all fields"
+  },
+  "currency": {
+    "SAR": "SAR"
+  },
+  "api-answers": {
+    "balance": "Your current account balance is ",
+    "spent": "You have spent ",
+    "appointment": "I can take you to schedule an appointment.",
+    "transactions": "Your recent transactions are as follows: ",
+    "chooseMonth": "You can choose a month to view more details.",
+    "categoriesSummary": "Here is a summary of your spending by category "
+  },
+  "letsGo": {
+    "title": "Let's go!"
+  },
+  "changeLangWarning": {
+    "title": "Warning",
+    "message": "Changing the language will reset the chat. Do you want to continue?",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "charts": {
+    "spent": "You have spent "
+  },
+  "totalSpent": "You have spent a total of ",
+  "totalSpentInMonth": "You have spent in this month a total of ",
+  "needHelp": "Do you need any help?",
+  "customerService": {
+    "title": "Please contact with our customer service via whatsapp or X",
+    "whatsapp": "Whatsapp",
+    "x": "X"
+  },
+  "yourTransactions": "Your transactions",
+  "modelQuestions": {
+    "title": "Hi I’m JANA, your virtual financial assistant.",
+    "subtitle": "Here are some things I can help you with.",
+    "q1": "Finding Answers to Banking-Related Questions",
+    "q2": "Checking Balance Information",
+    "q3": "Viewing Dashboard Summary Statistics",
+    "q4": "Booking an Appointment",
+    "q5": "Viewing Recent Transactions",
+    "q6": "Contact Customer Service Agent",
+    "a1": "How can I register in JANA rewards program?",
+    "a2": "What is my current account balance?",
+    "a3": "How much did I spend with my account?",
+    "a4": "I want to book an appointment.",
+    "a5": "Can you provide details of my recent transactions?",
+    "a6": "I want to contact customer service agent."
+  }
+}
